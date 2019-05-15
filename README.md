@@ -3,4 +3,4 @@ BLog
 
 1-importar zip.
 
-2-abrir index con un nacegador
+2-abrir index con un navegador
